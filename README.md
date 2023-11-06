@@ -1,18 +1,10 @@
-#include<stdio.h>
+    #include<stdio.h>
+    #include<conio.h>
+    #include<dos.h>
 
-#include<conio.h>
-
-#include<dos.h>
-
-
-void main()
-    
-    {
-    
-    clrscr();
-    
-    printf("Coding numbs the pain");
-    
-    getch();
-    
+    void main() {
+        clrscr();
+            printf("Coding numbs the pain");
+        getch();
     }
+    
