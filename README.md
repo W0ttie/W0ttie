@@ -5,6 +5,7 @@
     void main() {
         clrscr();
             printf("Coding numbs the pain");
+            printf("Free me");
         getch();
     }
     
