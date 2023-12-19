@@ -4,6 +4,6 @@
 
     void main() {
         clrscr();
-            printf("i love cats <33");
+            printf("        i love cats <33        ");
         getch();
     }
